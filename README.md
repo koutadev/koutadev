@@ -58,6 +58,14 @@
 - 仕様書 → 実装 → 自動テスト → 公開まで一人で進める個人開発
 - Claude Code を活用したAI駆動開発（最終的な実装と品質確認は自分で）
 
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koutadev/koutadev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koutadev/koutadev/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/koutadev/koutadev/output/github-snake.svg">
+</picture>
+
 ### 📫 Links
 
 <a href="https://portfolio-chi-sage-eud0tx0pxw.vercel.app"><img src="https://img.shields.io/badge/Portfolio-c4841d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
