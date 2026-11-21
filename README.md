@@ -1,4 +1,10 @@
+<div align="center">
+
 ## 👋 Hi, I'm Kouta
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&weight=700&size=24&duration=3000&pause=1200&color=C4841D&center=true&vCenter=true&width=560&height=50&lines=%E5%85%83%E5%AF%BF%E5%8F%B8%E8%81%B7%E4%BA%BA%20%E2%86%92%20%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;PHP%20%2F%20Laravel%20%2F%20PostgreSQL;%E6%A5%AD%E5%8B%99%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E3%80%81%E4%B8%81%E5%AF%A7%E3%81%AB%E6%8F%A1%E3%82%8B%E3%80%82;Java%20%E5%AD%A6%E7%BF%92%E4%B8%AD" alt="元寿司職人 → バックエンドエンジニア / PHP・Laravel・PostgreSQL / Java 学習中">
+
+</div>
 
 元寿司職人 → PHPバックエンドエンジニア。  
 寿司職人として3年間培った「品質へのこだわり」と「段取り力」を武器に、業務システムの設計・開発・改善に取り組んでいます。  
@@ -58,7 +64,11 @@
 - 仕様書 → 実装 → 自動テスト → 公開まで一人で進める個人開発
 - Claude Code を活用したAI駆動開発（最終的な実装と品質確認は自分で）
 
-### 🐍 Contributions
+### 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koutadev&layout=compact&langs_count=6&exclude_repo=crm-demo-static,yoga-demo-static&bg_color=0d1117&title_color=c4841d&text_color=c9d1d9&icon_color=c4841d&hide_border=true&border_radius=10" height="165" alt="Top Languages">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koutadev/koutadev/output/github-snake-dark.svg">
